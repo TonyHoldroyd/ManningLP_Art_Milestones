@@ -1,2 +1,2 @@
 # ManningLP_Art_Milestones
-Manning's Art Transfer Live Project Milestone 1
+Manning's Art Transfer Live Project Milestones
